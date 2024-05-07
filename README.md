@@ -1,4 +1,5 @@
-# Overview of TNT Token Interaction as a Layer 2 solution
+# THRUST NETWORK TECHNOLOGY
+# Overview of TNT Interaction as a Layer 2 solution
 
 The three contracts, `tnt.sol`, `L2Escrow.sol`, and `L2TokenConvert.sol`, work together to manage and bridge the TNT token between Layer 1 (L1) and Layer 2 (L2). Below is an explanation of each contract's role and how they collectively enable the creation and management of TNT as an L2 token.
 
